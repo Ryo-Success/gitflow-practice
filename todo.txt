@@ -1,2 +1,3 @@
 # My ToDo List
 - Learn Git Flow
+- Build a sample project
